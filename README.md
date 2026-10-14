@@ -1,6 +1,6 @@
 # your-average-skills
 
-Chris Lahey's collection of [Claude Code](https://docs.claude.com/en/docs/claude-code) skills.
+Your Average Chris' collection of [Claude Code](https://docs.claude.com/en/docs/claude-code) skills.
 
 ## Install
 
