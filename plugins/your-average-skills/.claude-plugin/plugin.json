@@ -1,0 +1,10 @@
+{
+  "name": "your-average-skills",
+  "description": "Collection of Claude Code skills.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Chris Lahey"
+  },
+  "repository": "https://github.com/clahey/your-average-skills",
+  "license": "MIT"
+}
